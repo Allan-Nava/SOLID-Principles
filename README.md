@@ -29,6 +29,6 @@ Let's look at each principle one by one. Following the SOLID acronym, they are:
 - The Interface Segregation Principle
 - The Dependency Inversion Principle
 
-
+<img src="https://github.com/Allan-Nava/SOLID-Principles/blob/main/SOLID-Tutorial-1-1024x554.png?raw=true">
 
 Explanation from https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/solid-principles-explained-in-plain-english/amp/
